@@ -1,7 +1,5 @@
 # SQL_Interview
 
-当然可以！以下是将上述内容整理为一个结构化的 Markdown 文件，方便你上传到 GitHub。Markdown 文件包含清晰的标题、代码块和解释，适合展示和分享。
-
 ---
 
 # SQL Query Analysis and Rewrite
