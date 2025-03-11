@@ -141,5 +141,3 @@ ON up.user_id = us.user_id;
 - Using CTEs makes the queries modular, allowing for easier modifications or extensions in the future.
 
 ---
-
-Feel free to copy this Markdown content into a `.md` file and upload it to your GitHub repository! Let me know if you need further assistance. 😊
