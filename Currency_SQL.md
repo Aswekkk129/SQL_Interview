@@ -1,5 +1,3 @@
-# sql
-
 To solve this problem using window functions, you can follow these steps:
 
 1. **Filter the data for the relevant dates**: We need to get the exchange rates for January 1, 2020, and July 1, 2020.
