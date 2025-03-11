@@ -1,6 +1,6 @@
 # SQL_Interview
 
-This repository is primarily my collection of challenging SQL interview questions. I hope that each case not only helps you learn various SQL functions and CTEs, but also guides you through a practical problem-solving process using actual SQL queries, ultimately serving as a valuable resource for enhancing your SQL knowledge and interview preparation.
+### This repository is primarily my collection of challenging SQL interview questions. I hope that each case not only helps you learn various SQL functions and CTEs, but also guides you through a practical problem-solving process using actual SQL queries, ultimately serving as a valuable resource for enhancing your SQL knowledge and interview preparation.
 ---
 
 # SQL Query Analysis and Rewrite
